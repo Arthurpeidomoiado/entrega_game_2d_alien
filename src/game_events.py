@@ -1,3 +1,5 @@
+import pygame
+import sys
 class GameEventHandler:
     """Responsável apenas por ler e tratar os eventos do teclado/janela."""
     def __init__(self, ship, bullet_manager) -> None:
