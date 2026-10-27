@@ -1,3 +1,4 @@
+
 class Settings:
     """Classe que armazena todas as configurações do jogo."""
 
